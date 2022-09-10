@@ -7,3 +7,5 @@ A basic docker image allowing one to easily run an [ItemSync server](https://git
 ```bash
 docker pull pcbowers/itemsync:latest
 ```
+
+Uses port `38282`.
